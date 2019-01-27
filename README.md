@@ -8,7 +8,6 @@ This package contains the complete package that solves all problems, including t
 
 The main question's output is at `./export/overlaps.csv`
 
-
 Bonus question 1's output is at `./export/overnights.csv`
 
 Bonus question 2's output is at `./export/busiest_roomm.csv`
@@ -18,6 +17,9 @@ Bonus question 3's output is at `./export/case_length_stats.txt`
 
 ## Requirements
 The successful execution of this package requires SQLite3 and the sqlite3 module in Python3. All Python scripts are written and tested with Python3.7.
+
+## Demo  
+A demo case is prepped using the test cases provided in the specs. Run `demo.sh` to perform the demo case. All export files are where they will be in the non-demo case, but with _demo written in their file names to indicate they are produced in demo cases.
 
 ## data
 The `data` directory contains the input files:

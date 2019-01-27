@@ -13,7 +13,7 @@
 #         number of cases
 
 # Before carrying out any computation, remove results from a previous run to
-# prevent possible intervention
+# prevent possible interference
 rm ./export/*
 
 # Compute using the python script

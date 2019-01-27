@@ -1,0 +1,4 @@
+The average case length is 3.3125 hours
+The first quartile is at 2.5625 hours
+The third quartile is at 3.75 hours
+The standard deviation of case length is 1.708206296089556 hours

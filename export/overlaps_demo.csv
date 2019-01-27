@@ -1,0 +1,5 @@
+block_id,case_id,intersection_type
+0,0,overlap
+0,3,inside
+1,0,overlap
+2,1,overlap
